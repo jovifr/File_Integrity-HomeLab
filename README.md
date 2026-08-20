@@ -1,4 +1,4 @@
-# File_Integrity-HomeLab
+# File Integrity Home-Lab
 Built a home SOC lab using Wazuh for SIEM and real-time file integrity monitoring.
 # Wazuh Home Lab — SIEM & File Integrity Monitoring
 
