@@ -19,6 +19,7 @@ Two-host Wazuh SIEM lab built to practice log collection, endpoint agent managem
 3. Registered the Windows agent using `manage_agents`, then applied the enrollment key through the Wazuh Agent Manager GUI.
 4. Enabled real-time FIM by adding a monitored directory to the `<directories realtime="yes">` block in `ossec.conf`.
 5. Restarted the agent service and confirmed Active status on the dashboard.
+![image alt](https://github.com/jovifr/File_Integrity-HomeLab/blob/f09c7b7bce2d416692bbff6055674777ea5665f6/.....png)
 
 ## Verification
 
@@ -28,6 +29,7 @@ Two-host Wazuh SIEM lab built to practice log collection, endpoint agent managem
   - `rule.id 554` (level 5) — file added
   - `rule.id 553` (level 7) — file deleted
 - Detection latency confirmed: events appeared in the dashboard within the same 30-minute window as the triggering action.
+![image alt](https://github.com/jovifr/File_Integrity-HomeLab/blob/2a49171326aa3ebf00513c7e7934450830f141f7/....%20(2).png)
 
 ## Troubleshooting
 
@@ -38,5 +40,3 @@ Resolved an agent/manager version mismatch (Windows agent on a newer minor relea
 
 Linux server administration, SIEM deployment, Windows endpoint agent management, FIM/Syscheck configuration, detection verification, dashboard-based log analysis.
 
-![image alt](https://github.com/jovifr/File_Integrity-HomeLab/blob/f09c7b7bce2d416692bbff6055674777ea5665f6/.....png)
-![image alt](https://github.com/jovifr/File_Integrity-HomeLab/blob/2a49171326aa3ebf00513c7e7934450830f141f7/....%20(2).png)
