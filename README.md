@@ -38,3 +38,4 @@ Resolved an agent/manager version mismatch (Windows agent on a newer minor relea
 Linux server administration, SIEM deployment, Windows endpoint agent management, FIM/Syscheck configuration, detection verification, dashboard-based log analysis.
 
 ![image alt](https://github.com/jovifr/File_Integrity-HomeLab/blob/f09c7b7bce2d416692bbff6055674777ea5665f6/.....png)
+![image alt](https://github.com/jovifr/File_Integrity-HomeLab/blob/4d26776f0f5f8dd9cb4ff96e5684933612ca3f27/....%20(3).png)
