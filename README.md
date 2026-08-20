@@ -36,3 +36,5 @@ Resolved an agent/manager version mismatch (Windows agent on a newer minor relea
 ## Skills Demonstrated
 
 Linux server administration, SIEM deployment, Windows endpoint agent management, FIM/Syscheck configuration, detection verification, dashboard-based log analysis.
+
+![image alt](https://github.com/jovifr/File_Integrity-HomeLab/blob/f09c7b7bce2d416692bbff6055674777ea5665f6/.....png)
